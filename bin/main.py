@@ -16,8 +16,6 @@ import pymia.data.conversion as conversion
 import pymia.evaluation.writer as writer
 
 
-''' Ciao Finn!
-Grazie per l'aiuto!'''
 
 try:
     import mialab.data.structure as structure
